@@ -1,1 +1,2 @@
-# tips4me
+# Tips for Me. 
+References for my system setup.
